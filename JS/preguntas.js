@@ -145,7 +145,7 @@ let questions = [
   {
   numb: 14,
   question: "¿Cuál es el propósito de la propiedad z-index en CSS?",
-  answer: "let tiene un alcance de bloque, mientras que var tiene un alcance de función.",
+  answer: "Controlar el orden de apilamiento de elementos superpuestos.",
   options: [
     "Controlar la opacidad de un elemento.",
     "Cambiar el color de fondo de un elemento.",
@@ -188,7 +188,7 @@ let questions = [
   },
   {
   numb: 18,
-  question: "¿Qué es una interfaz en Java?",
+  question: "¿Qué es una interface en Java?",
   answer: "Define un conjunto de métodos que una clase debe implementar.",
   options: [
     "Una clase abstracta que puede contener métodos con implementación.",
@@ -211,7 +211,7 @@ let questions = [
   {
   numb: 20,
   question: "¿Qué significa que un método sea static en Java?",
-  answer: " Que el método pertenece a la clase y no a las instancias de la clase.",
+  answer: "Que el método pertenece a la clase y no a las instancias de la clase.",
   options: [
     "Que el método no puede ser llamado desde otras clases.",
     "Que el método pertenece a la clase y no a las instancias de la clase.",
